@@ -1,8 +1,8 @@
 👋 Hi, I’m @sauravchaudhary182003
 
-👀 I’m interested in ...developing full stack projects, Exploring new cutting end technologies
+👀 I’m interested in ...developing salesforce projects, Exploring new cutting end technologies
 
-🌱 I’m currently learning ... (Java, salesforce, full stack )
+🌱 I’m currently working on ... (Lwc, salesforce, Triggers, flows... )
 
 💞️ I’m looking to collaborate on ...Developing salesforce application
 
